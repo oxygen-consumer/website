@@ -32,7 +32,6 @@ _merge = "none"
   [params.contact]
     # the default fontawesome style in simple key-value pairs is "fab", i.e. brand icons
     github = "https://github.com/oxygen-consumer"
-    instagram = "https://instagram.com/zaharie_stefan"
     linkedin = "https://www.linkedin.com/in/zaharie-stefan"
     
     # You may use (inline) tables for more versatility
